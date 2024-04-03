@@ -46,7 +46,7 @@ img{
 
 .input-group-addon{
     border-radius: 0px;
-    background-color: rgba(31, 58, 66, 0.83);
+    background-color: rgba(20, 104, 42, 0.83);
     color: #fff;
     padding: 0px 20px;
 }
@@ -58,7 +58,7 @@ input.form-control:focus {
 
 .form-control{
     padding: 30px 15px;
-    background-color: rgba(31, 58, 66, 0.83);
+    background-color: rgba(20, 104, 42, 0.83);
     color: #fff;
     letter-spacing: 1px;
     border-radius: 0px;
@@ -103,7 +103,7 @@ p{
 .subsribe-btn {
     padding: 0px 45px;
     margin-top: 35px;
-    background-color: rgba(31, 58, 66, 0.83);
+    background-color: rgba(20, 104, 42, 0.83);
     color: #fff;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
@@ -129,7 +129,7 @@ p{
  */
 
 .header{
-    background-image: url(../img/Awesome_Coming_Soon_Template_BG.jpg);
+    background-image: url(../img/treeservice1.jpg);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
